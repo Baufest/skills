@@ -15,6 +15,7 @@ Skills are agent-agnostic. The same skill works across Claude Code, Cursor, VS C
 | [`data-table-design`](skills/data-table-design/) | Design clear, scannable data tables with correct alignment, formatting, and layout | Reference-backed |
 | [`architecture-decision`](skills/architecture-decision/) | Produce Architecture Decision Records with options analysis and recommendations | Reference-backed |
 | [`delivery-status`](skills/delivery-status/) | Write delivery status reports — weekly updates, steering committee summaries, executive roll-ups | Example-backed |
+| [`demo-duck-style`](skills/demo-duck-style/) | Apply DuckCorp brand voice — duck emoji statuses, "quack" placeholders, ALL CAPS duck-pun headers, and celebration suffixes. Designed for use with [skills-demo](https://github.com/baufest/skills-demo) to show how brand guide skills work. | Demo |
 
 ## How to Use
 
