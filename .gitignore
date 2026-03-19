@@ -1,1 +1,8 @@
-.claude
+.claude/
+node_modules/
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
+.context/
+*.pyc
