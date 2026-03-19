@@ -1,0 +1,26 @@
+{
+  "name": "baufest-skills",
+  "owner": {
+    "name": "Baufest",
+    "email": "skills@baufest.com"
+  },
+  "metadata": {
+    "description": "Baufest skills for brand, API design, data tables, architecture decisions, and delivery status",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "consulting-skills",
+      "description": "Core skills: brand styling, API design, data table design, architecture decisions, and delivery status updates",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/baufest-brand",
+        "./skills/api-design",
+        "./skills/data-table-design",
+        "./skills/architecture-decision",
+        "./skills/delivery-status"
+      ]
+    }
+  ]
+}
