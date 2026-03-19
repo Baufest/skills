@@ -19,7 +19,8 @@
         "./skills/api-design",
         "./skills/data-table-design",
         "./skills/architecture-decision",
-        "./skills/delivery-status"
+        "./skills/delivery-status",
+        "./skills/demo-duck-style"
       ]
     }
   ]
