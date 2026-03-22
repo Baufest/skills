@@ -15,7 +15,7 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/baufest-brand",
+        "./skills/brand-guidelines",
         "./skills/api-design",
         "./skills/data-table-design",
         "./skills/architecture-decision",

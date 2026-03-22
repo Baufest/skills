@@ -10,7 +10,7 @@ Skills are agent-agnostic. The same skill works across Claude Code, Cursor, VS C
 
 | Skill | Description | Type |
 |-------|-------------|------|
-| [`baufest-brand`](skills/baufest-brand/) | Apply Baufest brand colors, typography, and voice to any deliverable | Simple |
+| [`brand-guidelines`](skills/brand-guidelines/) | Apply Baufest brand colors, typography, and voice to any deliverable | Simple |
 | [`api-design`](skills/api-design/) | Design ergonomic REST APIs that work well with OpenAPI and code generators | Reference-backed |
 | [`data-table-design`](skills/data-table-design/) | Design clear, scannable data tables with correct alignment, formatting, and layout | Reference-backed |
 | [`architecture-decision`](skills/architecture-decision/) | Produce Architecture Decision Records with options analysis and recommendations | Reference-backed |

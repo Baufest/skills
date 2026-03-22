@@ -1,5 +1,5 @@
 ---
-name: baufest-brand
+name: brand-guidelines
 description: >-
   Apply Baufest brand identity — colors, typography, and voice — to any
   deliverable. Use this skill when styling documents, decks, emails, or any
@@ -7,7 +7,7 @@ description: >-
   brand guidelines, Baufest styling, corporate identity, deck formatting,
   look-and-feel, brand voice, visual identity, branded output, magenta and
   green palette. Also use when generating CSS, design tokens, or theme
-  configuration for Baufest-branded applications. Do NOT use for logo file
+  configuration for brand-guidelinesed applications. Do NOT use for logo file
   requests (those require asset management) or for non-Baufest client branding.
 license: Apache-2.0
 metadata:
